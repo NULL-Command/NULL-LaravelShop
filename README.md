@@ -82,22 +82,22 @@ The project includes essential features such as product display, shopping cart m
 
 ## Demos
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/1.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/1.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/2.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/2.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/3.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/3.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/4.png)
+![Demo](hhttps://null-command.github.io/NULL-LaravelShop/demos_resources/4.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/5.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/5.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/6.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/6.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/7.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/7.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/8.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/8.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/9.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/9.png)
 
-![Demo](https://null-command.github.io/NULL-LaravelShoo/demos_resource/10.png)
+![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/10.png)
