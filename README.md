@@ -101,3 +101,11 @@ The project includes essential features such as product display, shopping cart m
 ![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/9.png)
 
 ![Demo](https://null-command.github.io/NULL-LaravelShop/demos_resources/10.png)
+
+## Contribution
+We welcome contributions from everyone! To get started, please follow these steps:
+1. **Open an Issue**: If you have any issues or suggestions, open a new issue on [Issues](https://github.com/NULL-Command/NULL-LaravelShop/issues).
+2. **Submit a Pull Request**: Fork this repository, make your changes, and submit a pull request.
+Thank you for contributing!
+## Feedback and Contact
+For any feedback, questions, or suggestions, feel free to reach out to us at: [null.supermanager@gmail.com](mailto:null.supermanager@gmail.com).
